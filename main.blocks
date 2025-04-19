@@ -1,0 +1,10 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id=")sNYB0)4bx|SeapICQ$." x="0" y="0"></block><block type="device_forever" id="xpjhqs@r90;%s)-GltTI" x="205" y="0"><statement name="HANDLER"><block type="ZHAW_Matrix_ImageMoving" id="9v8lk1Z5U}c,X$rP2j.`"><field name="direction">lumaMatrix.eDirection.Right</field><value name="image"><shadow type="ZHAW_Image_8x8" id="H}^[)+|k+~$qM[6|8X0m"><field name="LEDS">`
+        # . . # . # # # 
+        # . . # . . # . 
+        # # # # . . # . 
+        # . . # . . # . 
+        # . . # . # # # 
+        . . . . . . . . 
+        . . . . . . . . 
+        . . . . . . . .
+        `</field></shadow></value><value name="color"><shadow type="colorNumberPicker" id="UY8~Y-x#8;Me;x`1[QEz"><field name="value">0x00ff00</field></shadow></value><value name="speed"><shadow type="math_number_minmax" id="AT)q6X?r^dj7ng3)nhhc"><mutation min="1" max="99" label="Speed" precision="0"></mutation><field name="SLIDER">10</field></shadow></value></block></statement></block></xml>
